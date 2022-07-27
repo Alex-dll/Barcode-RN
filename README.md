@@ -1,11 +1,44 @@
-# Desenvolvendo um leitor de código de barras com Expo Barcode Scanner em React Native
+# Developing a Barcode Scanner with Expo Barcode Scanner in React Native
 
-A leitura de códigos de barras é utilizada na indústria, no varejo e em muitos lugares.
+Barcode scanning is used in industry, retail and many places.
 
-Desenvolver um app que faz uso desse recurso é muito comum no dia a dia das empresas.
+Developing an app that makes use of this feature is very common in companies' daily lives.
 
-Pensando em resolver isso, vamos implementar a leitura de código de barras com React Native, onde, após ler o código de barras, poderemos consultar uma fonte de dados para mostrar os dados de um produto, simulando o que aconteceria em um supermercado.
+Thinking about solving this, we are going to implement barcode reading with React Native, where, after reading the barcode, we can consult a data source to show the data of a product, simulating what would happen in a supermarket.
 
-Obrigado [João Bibiano](https://github.com/joaobibiano) pelo conteúdo sensacional
+## How to run this project
+
+Clone this repo
+
+```bash
+  https://github.com/Alex-dll/Barcode-RN
+```
+
+Go to project directory
+
+```bash
+  cd my-project
+```
+
+Install the dependencies
+
+```bash
+  yarn | yarn install
+```
+
+Start the aplication
+
+```bash
+ expo start
+```
+
+## Used Tools 🧰
+
+- [x] React-Native
+- [x] expo-barcode-scanner
+
+---
+
+Tanks [João Bibiano](https://github.com/joaobibiano) for the amazing content
 
 🚀Foguete não tem ré
